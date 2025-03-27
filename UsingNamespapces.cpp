@@ -13,7 +13,7 @@ namespace TextOperations {
         return str1 + str2;
     }
 }
-
+// main function
 int main() {
     using namespace std;
 
@@ -25,6 +25,6 @@ int main() {
     string combined = TextOperations::concat("Hello, ", "World!");
     cout << "Concatenated String: " << combined << endl;
 
-    return 0;
+return 0;
 }
 
