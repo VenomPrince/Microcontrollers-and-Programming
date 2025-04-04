@@ -37,6 +37,6 @@ int main()
     cout << "Uppercase string: " << str << endl;
     cout << "Number of vowels: " << count << endl;
     cout << "Reversed string: " << reversedStr << endl;
-
+    // Reversed string
     return 0;
 }
