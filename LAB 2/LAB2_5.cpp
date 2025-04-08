@@ -6,6 +6,7 @@ using namespace std; // Use the standard namespace
 int main() {
     int z; // Declare a variable to store the size of the array, soly for testing
     cout << "Enter the size of new array: "; // Prompt the user to enter a number
+    cin >> z;
     int size = z; // Define the size of the array
     // we can also use cin >> size; but i didnt want to use it
     int originalArray[size] = {1, 4, 7, 10, 15}; // Initialize the original array
