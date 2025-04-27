@@ -1,3 +1,6 @@
+/* Please compile the .cpp file using g++ Assignemnet_4.cpp -o assignment4
+./assignment4 then run the program*/
+
 #include <iostream>
 #include <string>
 using namespace std;
